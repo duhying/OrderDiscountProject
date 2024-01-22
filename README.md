@@ -14,7 +14,7 @@
 ##### <주문과 할인 도메인>
 
 
-<img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/d02fa162-0793-4a3f-83c9-09e9611e2e0e" alt="Screenshot 3" width="470" height="300"/>
+<img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/d02fa162-0793-4a3f-83c9-09e9611e2e0e" alt="Screenshot 3" width="470" height="150"/>
 <br/>
 <img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/7fecb744-a4a2-45f5-af79-f32ce9e99425" alt="Screenshot 4" width="450" height="300"/>
 
