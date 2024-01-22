@@ -2,7 +2,7 @@
 
 ##### <회원 도메인>
 
-<img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/d9405163-dad1-405e-a5ea-43670bf637f0" alt="Screenshot 1" width="450" height="300"/>
+<img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/d9405163-dad1-405e-a5ea-43670bf637f0" alt="Screenshot 1" width="470" height="300"/>
 <br/>
 <img src="https://github.com/duhying/OrderDiscountProject/assets/123529128/36136653-c23d-4629-9df8-1ed705892ded" alt="Screenshot 2" width="500" height="150"/>
 
